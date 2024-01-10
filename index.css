@@ -98,7 +98,7 @@ header {
     height: 80px;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #b6b1b1;
+    /* border-bottom: 1px solid #b6b1b1; */
 }
 .myntra_home {
     height: 45px;
@@ -231,3 +231,61 @@ header {
     text-align: end;
     padding: 15px;
 }
+
+
+/* ----item style----- */
+
+
+.items-container{
+    width: 80%;
+    margin: 40px 10%;
+
+}
+.item-container{
+    width: 200px;
+}
+.item-image{
+    width: 100%;
+}
+.rating{
+    font-size: 12px;
+    font-weight: 700;
+}
+.company-name{
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 700;
+    list-style: 1;
+    color: #282c3f;
+    margin-bottom: 6px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.item-name{
+
+}
+.price{
+
+}
+.current-price{
+
+}
+.original-price{
+
+}
+.discount{
+
+}
+.btn-add-bag{
+
+}
+
+
+
+
+
+
+
+
+
